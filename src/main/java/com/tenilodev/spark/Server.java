@@ -1,6 +1,10 @@
 package com.tenilodev.spark;
 
+import com.mysql.jdbc.jdbc2.optional.MysqlDataSource;
 import com.tenilodev.spark.routes.Web;
+import org.javalite.activejdbc.Base;
+
+import javax.sql.DataSource;
 
 import static spark.Spark.*;
 
@@ -14,7 +18,11 @@ public class Server {
     }
 
     private Server() {
+
         Web.init();
+
+        System.out.println("run app");
+
     }
 }
 

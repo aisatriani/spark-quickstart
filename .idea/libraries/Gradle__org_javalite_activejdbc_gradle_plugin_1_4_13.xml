@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.javalite:activejdbc-gradle-plugin:1.4.13">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.javalite/activejdbc-gradle-plugin/1.4.13/b3b0a3caf4418f314030cd214b0746b293094242/activejdbc-gradle-plugin-1.4.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.javalite/activejdbc-gradle-plugin/1.4.13/854cba5ec6f442067d65c096606b0da985a1de04/activejdbc-gradle-plugin-1.4.13-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
